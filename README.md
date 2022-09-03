@@ -1,7 +1,7 @@
 # Front-End Clone da OLX - Adaptado
 
 ## Desenvolvido em React.js
-### Utilizando: Redux, Router  e  Node v14.15
+### Utilizando: Redux, Router  e  Node _v14.15_
 
 Projeto do modulo React no curso *Desenlvolvedor FullStack JS* Curso da Soitech
 
